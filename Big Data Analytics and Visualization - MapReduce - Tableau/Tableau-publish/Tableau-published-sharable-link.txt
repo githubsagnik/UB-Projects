@@ -1,0 +1,3 @@
+Tableau published sharable link:
+
+https://public.tableau.com/profile/sagnik.ghosh#!/vizhome/CSE587-DataIntensiveComputing-Lab2/Main-Dashboard?publish=yes

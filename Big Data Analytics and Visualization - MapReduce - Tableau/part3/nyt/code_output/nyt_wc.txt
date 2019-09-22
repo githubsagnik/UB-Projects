@@ -1,0 +1,10 @@
+4288 	 gun
+1649 	 law
+1543 	 people
+1314 	 shooting
+966 	 police
+945 	 zealand
+891 	 firearm
+863 	 gunman
+830 	 weapon
+819 	 state

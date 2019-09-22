@@ -1,0 +1,17 @@
+Zealand,attack	4
+Zealand,gun	8
+Zealand,gunman	6
+Zealand,mosque	11
+Zealand,police	10
+Zealand,shooting	2
+attack,killed	1
+gun,attack	2
+gunman,attack	4
+gunman,killed	21
+gunman,video	32
+mosque,attack	10
+mosque,gunman	4
+mosque,shooting	10
+people,killed	10
+people,police	4
+shooting,attack	4

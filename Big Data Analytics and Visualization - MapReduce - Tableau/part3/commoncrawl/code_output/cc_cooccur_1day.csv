@@ -1,0 +1,14 @@
+control,gun	2
+control,law	217
+gun,control	1645
+gun,death	75
+gun,gun	5
+gun,law	68
+gun,suicide	26
+law,school	16
+law,state	5
+school,state	2
+school,suicide	1
+state,gun	11
+state,law	6
+state,school	1

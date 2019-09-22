@@ -1,0 +1,13 @@
+name: FluHeatmap
+title: FluHeatmap
+username:
+account: sagnikgh-dic-lab1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 775645
+bundleId: 1924612
+url: https://sagnikgh-dic-lab1.shinyapps.io/FluHeatmap/
+when: 1552031057.89794
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: #flu#influenza#illness.csv|#fluseason.csv|#flushot.csv|#influenza.csv|finalDF1.csv|heatmap1.csv|heatmap2.csv|sagnikghLab1Part3.ipynb|sagnikghLab1Part3TweetCollection.ipynb|StateDatabyWeekforMap_2018-19week3-4.csv|tweets_collected_0302_#Flu#Influenza#Illness.csv|tweets_collected_0305_#Flueason.csv|tweets_collected_0306_#Flushot.csv|tweets_collected_0307_#influenza.csv|.ipynb_checkpoints
