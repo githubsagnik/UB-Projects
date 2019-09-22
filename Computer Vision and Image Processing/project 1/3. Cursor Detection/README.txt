@@ -1,0 +1,1 @@
+the program in the file "cursor.py" has run on all the sample input images provided in the SET A. Due to memory constrains the input samples are not provided. The custom cursor is provided in the folder named "template.jpg"
